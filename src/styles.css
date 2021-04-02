@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: '', ;
+    font-family: 'Kumbh Sans', sans-serif;
     scroll-behavior: smooth;
 }
 
@@ -45,9 +45,9 @@
 }
 
 .navbar__menu {
-
+    display: flex;
+    align-items: center;
+    list-style: none;
 }
 
-.navbar__item {
-    
-}
+.navbar__item {}
